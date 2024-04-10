@@ -1,0 +1,13 @@
+{
+  "ore_bin": "./bin/ore",
+  "confirm_retries": 1,
+  "confirm_interval": 12,
+  "gateway_retries": 40,
+  "keypairs_dir": "./keys",
+  "priority_fee_per_unit_mc_lamports": 7000000,
+  "rpcs": [],
+  "fallback_rpc": "",
+  "logs_dir": "logs",
+  "thread_pool": false,
+  "dynamic_config": true
+}
